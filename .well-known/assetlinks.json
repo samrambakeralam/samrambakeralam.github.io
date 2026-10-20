@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.samrambakeralam.texlearn.debug",
+      "sha256_cert_fingerprints": [
+        "AE:43:9F:3E:44:B0:85:09:35:1D:19:11:FF:AF:8C:B1:16:6C:73:3C:33:16:41:D6:01:A6:3C:C9:5A:C2:E5:54"
+      ]
+    }
+  }
+]
